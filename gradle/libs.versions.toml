@@ -16,7 +16,7 @@ graal = "0.9.28"
 kotlin = "1.9.22"
 
 # Cloud
-cloud = "2.0.0-SNAPSHOT"
+cloud = "2.0.0"
 
 # External
 immutables = "2.10.0"
